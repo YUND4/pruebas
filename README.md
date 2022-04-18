@@ -1,1 +1,1 @@
-Esto es un proyecto de git
+Esto es un proyecto de git --conflicto
